@@ -2,15 +2,15 @@
 
 export default function Sidebar() {
   return (
-    <>
-      <ul>
-        <li>
-          Home page <span style={{ fontSize: "x-small" }}>*current page</span>
-        </li>
-        <li>Gallery page (reusable component)</li>
-        <li>CV page</li>
-        <li>Contact page</li>
-      </ul>
-    </>
+    <div className="flex flex-col p-12">
+      <h1 className="">Ella Hepner</h1>
+      <span>Home</span>
+      <span>Drawings</span>
+      <span>Paintings</span>
+      <span>Prints</span>
+      <span>Installations</span>
+      <span>CV</span>
+      <span>Contact</span>
+    </div>
   );
 }
