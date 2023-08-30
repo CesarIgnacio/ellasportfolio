@@ -1,17 +1,16 @@
+import Sidebar from "@/components/Sidebar";
+
 export default function Home() {
   return (
-    <>
-      <h1>This is the Home page</h1>
-      <h2>TODO</h2>
-      <span>Create Pages:</span>
-      <ul>
-        <li>
-          Home page <span style={{ fontSize: "x-small" }}>*current page</span>
-        </li>
-        <li>Gallery page (reusable component)</li>
-        <li>CV page</li>
-        <li>Contact page</li>
-      </ul>
-    </>
+    <div className="flex flex-row">
+      <section className="w-72 bg-teal-500">
+        <Sidebar />
+      </section>
+      <div>
+        <h1>This is the Home page</h1>
+        <h2>TODO</h2>
+        <span>Create Pages:</span>
+      </div>
+    </div>
   );
 }
