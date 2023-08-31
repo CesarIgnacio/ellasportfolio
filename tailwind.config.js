@@ -8,7 +8,8 @@ module.exports = {
     // Or if using `src` directory:
     './src/**/*.{js,ts,jsx,tsx,mdx}',
 
-    './node_modules/flowbite-react/**/*.{js,ts,jsx,tsx,mdx}'
+    './node_modules/flowbite-react/**/*.{js,ts,jsx,tsx,mdx}',
+    './public/**/*.html',
   ],
   darkMode: 'class',
   theme: {
