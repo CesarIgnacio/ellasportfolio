@@ -7,11 +7,153 @@ export default function Home() {
         <Sidebar />
       </section>
       <main className="bg-teal-400">
-        <div>
-          <h1>This is the Home page</h1>
-          <h2>TODO</h2>
-          <span>Create Pages:</span>
-        </div>
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
+        <span>This is the main page</span>
+        <br />
+        <br />
       </main>
     </div>
   );
